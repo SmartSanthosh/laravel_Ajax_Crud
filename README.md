@@ -1,1 +1,0 @@
-# laravel_Ajax_Crud
